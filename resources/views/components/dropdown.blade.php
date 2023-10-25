@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @props(['align' => 'right', 'width' => '48', 'contentClasses' => 'py-1 bg-white'])
+=======
+@props(['align' => 'right', 'width' => '48', 'contentClasses' => 'py-1 bg-white dark:bg-gray-700'])
+>>>>>>> a6cc9a3e3fbd9712ff4cb9b0929bacc61496597e
 
 @php
 switch ($align) {
